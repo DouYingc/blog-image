@@ -1,2 +1,2 @@
-# blog-image
+# blogimage
 博客图片
